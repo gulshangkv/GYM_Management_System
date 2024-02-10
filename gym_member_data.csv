@@ -1,0 +1,6 @@
+MemberID,Name,Email,Phone,MembershipTpye,JoinDate,lastvisit,Attendance
+101,John,John123@gmail.com,555475475,Regular,01-15-2022,04-20-2023,75
+102,Jane,jane123@gmail.com,74587458,Perminum,02-01-2022,08-06-2023,87
+103,Bob,Bob123@gmail.com,744587412,Regular,02-02-2022,04-02-2023,90
+104,Alice,Alice123@gmail.com,74125874,Regular,04-20-2022,06-20-2023,82
+105,Sara,Sara123@gmail.com,742962112,Perminum,05-12-2022,07-14-2023,95
